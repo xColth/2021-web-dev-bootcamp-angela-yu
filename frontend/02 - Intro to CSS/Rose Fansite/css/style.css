@@ -1,0 +1,16 @@
+#heading {
+  font-size: 48px;
+  color: #464660;
+}
+
+img {
+  width: 200px;
+}
+
+img:hover {
+  width: 250px;
+}
+
+.mk-young {
+  height: 267px;
+}
