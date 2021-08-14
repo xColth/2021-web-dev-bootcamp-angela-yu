@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+}
+
+.container {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: #202020;
+}
+
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  right: 0;
+}
+
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  left: 100px;
+  top: 0;
+}
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+  top: 0;
+}
+
+
+/* Challenge */
+/* body {
+  margin: 0;
+}
+
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+} */
